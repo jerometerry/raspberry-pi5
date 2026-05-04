@@ -1,0 +1,1 @@
+console=tty1 console=serial0,115200 root=PARTUUID=48874c1f-02 rootfstype=ext4 fsck.repair=yes rootwait splash plymouth.ignore-serial-consoles ds=nocloud;i=rpi-imager-1777584467386 cfg80211.ieee80211_regdom=CA
